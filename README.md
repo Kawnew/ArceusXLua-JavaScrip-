@@ -1,1 +1,2 @@
-# ArceusXLua-JavaScrip-
+# ArceusXLua-JavaScrip-(js)
+สี่คือ สคริปสำหรับทำเเอพ(โปร)ฟรีไม่คิดต่าใช้จ่ายอื่นไๆๆๆๆๆๆ
